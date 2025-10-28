@@ -76,7 +76,7 @@ Com o ambiente configurado, execute o projeto da seguinte forma:
 1.  Abra um terminal na pasta raiz do projeto.
 2.  Execute o script com o comando:
     ```bash
-    python exporter.py
+    python relatorio_por_data.py
     ```
     *(Use `python3` se for o padrão em seu sistema)*
 
